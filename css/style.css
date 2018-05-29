@@ -1,0 +1,164 @@
+.container{
+width: 1440px;
+height: 1024px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.banner {
+width: 1440px;
+height: 145px;
+background-color: #333333;
+}
+
+.orangebox{
+height: 45px;
+width: 170px;
+float: right;
+background-color: #FFB879;
+margin-top: 25px;
+margin-right: 20px;
+border-radius: 25px;
+color: white;
+font-family: 'Raleway' , sans-serif;
+font-size: 30px;
+text-align: center;
+padding-top: 10px;
+box-shadow: 0px 4px 7px;
+}
+
+.title{
+font-family: 'Quicksand' , sans-serif;
+font-style: bold;
+font-size: 50px;
+padding-top: 10px; 
+padding-left: 40px;
+background: -webkit-linear-gradient(#F2F2F2,#F2994A);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.subtitle{
+color: #F2994A;
+font-family: 'Raleway' , sans-serif;
+margin-left: 75px;
+width: 300px;
+font-style: italic;
+font-size: 15px;
+  
+}
+
+.links{
+font-family: 'Quicksand' , sans-serif;
+font-size: 24px;
+background: -webkit-linear-gradient(#F2F2F2,#F2994A);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+float: right;
+
+}
+
+.links a{
+float: left;
+font-family: sans-serif;
+padding: 0px 50px 0px;
+margin-right: 20px;
+text-decoration: underline #FFB879;
+
+}
+
+.banner img{
+height: 70px;
+width: 70px;
+
+}
+
+.body{
+background-color: #FFB879;
+height: 674px;
+width: 1440px;
+}
+
+.hometitle{
+color: white;
+font-family: 'Quicksand' , sans-serif;
+font-style: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+padding-top: 49px;
+}
+
+.body img{
+width: 846px;
+height: 414px;
+border-radius: 105px;
+float: right;
+margin-top: 40px;
+margin-right: 47px;
+
+
+
+}
+
+.infohome{
+width: 447px;;
+height: 390px;
+background-color:#97A66F;
+float: left;
+margin-top: 40px;
+border-radius: 80px;
+margin-left: 47px;
+text-align: center;
+font-family: 'Quicksand' , sans-serif;
+padding-top: 10px;
+
+}
+
+.footer{
+width: 1440px;
+background-color: white;
+color: #FFB879;
+font-size: 30px;
+font-family: bold;
+text-align: center;
+font-family: 'Quicksand' , sans-serif;
+}
+
+.footer img{
+float: left;
+margin-left: 150px;
+}
+
+.contactbody{
+background-color: #FFB879;
+height: 674px;
+width: 1440px;
+    
+}
+
+.contactbody img{
+height: 429px;
+width: 590px;
+border-radius: 40px;
+margin-top: 50px;
+margin-left: 57px;
+float: left;
+}
+
+.contactbox{
+width: 651px;
+height: 429px;
+border-radius: 40px;
+background-color: #97A66F;
+float: right;
+margin-top: 50px;
+margin-right: 57px;
+padding-left: 15px;
+font-family: 'Quicksand' , sans-serif;
+text-align: center;
+    
+}
+
+
+
