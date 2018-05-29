@@ -73,109 +73,16 @@ width: 70px;
 
 }
 
-.body{
+.bodyaboutus{
 background-color: #FFB879;
 height: 674px;
 width: 1440px;
 }
 
-.hometitle{
-color: white;
-font-family: 'Quicksand' , sans-serif;
-font-style: bold;
-font-size: 36px;
-line-height: 42px;
-text-align: center;
-padding-top: 49px;
-}
+.tigerandzookeeper{
+height: 600px;
+width: 1080px;
 
-.body img{
-width: 846px;
-height: 414px;
-border-radius: 105px;
-float: right;
-margin-top: 40px;
-margin-right: 47px;
-
-
-
-}
-
-.infohome{
-width: 447px;;
-height: 390px;
-background-color:#97A66F;
-float: left;
-margin-top: 40px;
-border-radius: 80px;
-margin-left: 47px;
-text-align: center;
-font-family: 'Quicksand' , sans-serif;
-padding-top: 10px;
-
-}
-
-.footer{
-width: 1440px;
-background-color: white;
-color: #FFB879;
-font-size: 30px;
-font-family: bold;
-text-align: center;
-font-family: 'Quicksand' , sans-serif;
-}
-
-.footer img{
-float: left;
-margin-left: 150px;
-}
-
-.contactbody{
-background-color: #FFB879;
-height: 674px;
-width: 1440px;
-    
-}
-
-.contactheading{
-font-family: 'Quicksand' , sans-serif;
-font-size: 40px;
-color: white;
-text-align: center;
-padding-top: 20px;
-text-decoration: underline;
-}
-
-.contactbody img{
-height: 429px;
-width: 590px;
-border-radius: 40px;
-margin-top: 15px;
-margin-left: 50px;
-float: left;
-}
-
-.contactbox{
-width: 590px;
-height: 429px;
-border-radius: 40px;
-background-color: #97A66F;
-float: right;
-margin-top: 15px;
-margin-right: 50px;
-padding-left: 15px;
-font-family: 'Quicksand' , sans-serif;
-text-align: center;
-font-size: 24px;
-    
-}
-
-.emailbox{
-background-color: #333333;
-width: 1266px;
-height: 99px;
-margin-left: 77px;
-}
 
 
 
