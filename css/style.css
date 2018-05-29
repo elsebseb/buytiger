@@ -84,5 +84,59 @@ height: 600px;
 width: 1080px;
 
 
+=======
+.footer img{
+float: left;
+margin-left: 150px;
+}
+
+.contactbody{
+background-color: #FFB879;
+height: 674px;
+width: 1440px;
+    
+}
+
+.contactheading{
+font-family: 'Quicksand' , sans-serif;
+font-size: 40px;
+color: white;
+text-align: center;
+padding-top: 20px;
+text-decoration: underline;
+}
+
+.contactbody img{
+height: 429px;
+width: 590px;
+border-radius: 40px;
+margin-top: 15px;
+margin-left: 50px;
+float: left;
+}
+
+.contactbox{
+width: 590px;
+height: 429px;
+border-radius: 40px;
+background-color: #97A66F;
+float: right;
+margin-top: 15px;
+margin-right: 50px;
+padding-left: 15px;
+font-family: 'Quicksand' , sans-serif;
+text-align: center;
+font-size: 24px;
+    
+>>>>>>> 04d08c5cf711c65b83b26913112897d26c0efff2
+}
+
+.emailbox{
+background-color: #333333;
+width: 1266px;
+height: 99px;
+margin-left: 77px;
+}
+
 
 
