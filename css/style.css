@@ -1,3 +1,146 @@
+.header{
+background-color: #333333;
+}
+
+.logo{
+font-family: 'Quicksand' , sans-serif;
+font-style: bold;
+font-size: 50px;
+background: linear-gradient(#F2F2F2,#F2994A);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.orangebox{
+height: 45px;
+width: 170px;
+background-color: #FFB879;
+border-radius: 25px;
+color: white;
+font-family: 'Raleway' , sans-serif;
+font-size: 30px;
+text-align: center;
+box-shadow: 0px 4px 7px;
+margin-top: 10px;
+float: right;
+margin-right: 20px;
+}
+
+.subtitle{
+color: #F2994A;
+font-family: 'Raleway' , sans-serif;
+margin-left: 20px;
+width: 300px;
+font-style: italic;
+font-size: 15px;
+  
+}
+
+.links{
+font-family: 'Quicksand' , sans-serif;
+font-size: 20px;
+background: -webkit-linear-gradient(#F2F2F2,#F2994A);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.links a{
+font-family: sans-serif;
+padding: 0px 50px; 0px;
+text-decoration: underline #FFB879;
+
+
+
+}
+
+/*
+.header{
+background-color: #333333;
+height: 150px;
+}
+
+.logo{
+font-family: 'Quicksand' , sans-serif;
+font-style: bold;
+font-size: 50px;
+background: linear-gradient(#F2F2F2,#F2994A);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.subtitle{
+color: #F2994A;
+font-family: 'Raleway' , sans-serif;
+margin-left: 20px;
+width: 300px;
+font-style: italic;
+font-size: 15px;
+  
+}
+
+.header img{
+height: 60px;
+width: 60px;
+float: right;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+
+.row {
+max-width: 100%;
+
+}
+
+.orangebox{
+height: 45px;
+width: 170px;
+background-color: #FFB879;
+margin-top: 25px;
+border-radius: 25px;
+color: white;
+font-family: 'Raleway' , sans-serif;
+font-size: 30px;
+text-align: center;
+box-shadow: 0px 4px 7px;
+margin-left: 900px;
+}
+
+.orangebox2{
+height: 45px;
+width: 170px;
+background-color: #FFB879;
+margin-top: 25px;
+border-radius: 25px;
+color: white;
+font-family: 'Raleway' , sans-serif;
+font-size: 30px;
+text-align: center;
+box-shadow: 0px 4px 7px;
+}
+
+.links{
+font-family: 'Quicksand' , sans-serif;
+font-size: 20px;
+background: -webkit-linear-gradient(#F2F2F2,#F2994A);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.links a{
+font-family: sans-serif;
+padding: 0px 50px 0px;
+margin-right: 20px;
+text-decoration: underline #FFB879;
+padding-top: 10px;
+float: left;
+
+}
+
+*/    
+
+
+/*
 .container{
 width: 1440px;
 height: 1024px;
@@ -73,6 +216,65 @@ width: 70px;
 
 }
 
+.body{
+background-color: #FFB879;
+height: 674px;
+width: 1440px;
+}
+
+.hometitle{
+color: white;
+font-family: 'Quicksand' , sans-serif;
+font-style: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+padding-top: 49px;
+}
+
+.body img{
+width: 846px;
+height: 414px;
+border-radius: 105px;
+float: right;
+margin-top: 40px;
+margin-right: 47px;
+
+
+
+}
+
+.infohome{
+width: 447px;;
+height: 390px;
+background-color:#97A66F;
+float: left;
+margin-top: 40px;
+border-radius: 80px;
+margin-left: 47px;
+text-align: center;
+font-family: 'Quicksand' , sans-serif;
+padding-top: 10px;
+
+}
+
+.footer{
+width: 1440px;
+background-color: white;
+color: #FFB879;
+font-size: 30px;
+font-family: bold;
+text-align: center;
+font-family: 'Quicksand' , sans-serif;
+}
+
+.footer img{
+float: left;
+margin-left: 150px;
+}
+
+
+
 .bodyaboutus{
 background-color: #FFB879;
 height: 674px;
@@ -84,59 +286,13 @@ height: 600px;
 width: 1080px;
 
 
-=======
+
 .footer img{
 float: left;
 margin-left: 150px;
 }
 
-.contactbody{
-background-color: #FFB879;
-height: 674px;
-width: 1440px;
-    
-}
-
-.contactheading{
-font-family: 'Quicksand' , sans-serif;
-font-size: 40px;
-color: white;
-text-align: center;
-padding-top: 20px;
-text-decoration: underline;
-}
-
-.contactbody img{
-height: 429px;
-width: 590px;
-border-radius: 40px;
-margin-top: 15px;
-margin-left: 50px;
-float: left;
-}
-
-.contactbox{
-width: 590px;
-height: 429px;
-border-radius: 40px;
-background-color: #97A66F;
-float: right;
-margin-top: 15px;
-margin-right: 50px;
-padding-left: 15px;
-font-family: 'Quicksand' , sans-serif;
-text-align: center;
-font-size: 24px;
-    
->>>>>>> 04d08c5cf711c65b83b26913112897d26c0efff2
-}
-
-.emailbox{
-background-color: #333333;
-width: 1266px;
-height: 99px;
-margin-left: 77px;
-}
 
 
+*/
 
